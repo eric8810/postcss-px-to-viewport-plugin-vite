@@ -1,6 +1,6 @@
 {
   "name": "postcss-px-to-viewport-plugin-vite",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "main": "lib/index.js",
   "description": "css-vw",
   "authors": {
