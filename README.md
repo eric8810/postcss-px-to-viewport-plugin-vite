@@ -12,6 +12,7 @@ postcss-px-to-viewport: postcss.plugin was deprecated. Migration guide: https://
 ## 解决
 
 postcss-px-to-viewport 替换 postcss-px-to-viewport-8-plugin
+修复因为postcss版本导致的atRule is not a constructor问题
 
 ## 对应库版本
 
