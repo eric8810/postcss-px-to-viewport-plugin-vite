@@ -1,15 +1,15 @@
 {
-  "name": "postcss-px-to-viewport-8-plugin",
-  "version": "1.1.4",
+  "name": "postcss-px-to-viewport-plugin-vite",
+  "version": "1.1.5",
   "main": "lib/index.js",
   "description": "css-vw",
   "authors": {
     "name": "lkx",
-    "email": "lkxian888@163.com"
+    "email": "ericted8810@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lkxian888/postcss-px-to-viewport-8-plugin"
+    "url": "https://github.com/eric8810/postcss-px-to-viewport-plugin-vite"
   },
   "scripts": {
     "build": "father-build",
@@ -48,7 +48,7 @@
     "example": "example"
   },
   "keywords": [
-    "postcss-px-to-viewport-8-plugin",
+    "postcss-px-to-viewport-plugin",
     "viewport",
     "postcss",
     "postcss-plugin",
@@ -57,8 +57,9 @@
     "vw",
     "vh",
     "vmin",
-    "vmax"
+    "vmax",
+    "vite"
   ],
-  "author": "lkx",
+  "author": "eric8810",
   "license": "MIT"
 }
